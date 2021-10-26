@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Zsg:6.R@,X~WZ/pv;$;Z" x="0" y="0"/><block type="device_forever" id="?^mw7dI!eAN@Z,xrsD3}" x="205" y="0"/><block type="SoundExpression_playUntilDone" id="?SDug#[d;M!bvX1YSa(L" disabled="true" x="79" y="272"><field name="this">soundExpression.giggle</field></block></xml>
